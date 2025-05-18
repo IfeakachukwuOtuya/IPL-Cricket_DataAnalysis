@@ -17,7 +17,7 @@ In this project, I used data for 10 cricket players and their salaries over 10 s
     Points: The points accumulated by the players in each season.
   
 # Key Features
-   Visualization: Using matplotlib, I plotted the salary data for each player across the seasons. Different line styles, markers, and colors were used to differentiate each 
+   Visualization: Using `matplotlib`, I plotted the salary data for each player across the seasons. Different line styles, markers, and colors were used to differentiate        each 
    player's salary plot.
 
    Dynamic Plotting: The plot is generated dynamically based on the player data, and the xticks are labeled with the corresponding seasons.
@@ -26,5 +26,7 @@ In this project, I used data for 10 cricket players and their salaries over 10 s
 
 # Technologies Used
    Python: The primary programming language used for data handling and visualization.
+  
    NumPy: For handling numerical data and creating matrices of salary, games, and points.
+   
    Matplotlib: For plotting and visualizing the data.
